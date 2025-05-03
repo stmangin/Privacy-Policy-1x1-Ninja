@@ -2,7 +2,7 @@
 
 **Verantwortlicher Anbieter:**  
 Stefanie Mangin  
-info@solution-ninja.de
+info@solution-ninja.com
 
 ---
 
@@ -26,4 +26,4 @@ Beim ersten Start der App kann zwischen personalisierter und nicht-personalisier
 ## 5. Kontakt
 
 Bei Fragen zum Datenschutz erreichen Sie uns unter:  
-info@solution-ninja.de
+info@solution-ninja.com
