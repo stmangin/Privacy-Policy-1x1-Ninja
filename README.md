@@ -21,7 +21,7 @@ Zur Finanzierung der App wird **Google AdMob** verwendet. Weitere Informationen:
 
 ## 4. Einwilligung
 
-Beim ersten Start der App kann zwischen personalisierter und nicht-personalisierter Werbung gewählt werden. Diese Einstellung kann jederzeit angepasst werden.
+Bei der Nutzung der App wird derzeit keine Auswahl zwischen personalisierter und nicht-personalisierter Werbung angeboten. Es wird nur nicht-personalisierte Werbung angezeigt, um datenschutzrechtliche Vorgaben einzuhalten.
 
 ## 5. Kontakt
 
